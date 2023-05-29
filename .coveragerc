@@ -1,0 +1,7 @@
+[run]
+source=authentication/,yukchi/,
+omit=
+    venv
+    */migrations/*
+    */tests/*
+    */__init__.py
